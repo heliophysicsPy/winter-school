@@ -1,5 +1,4 @@
-# winter-school
-2027 PyHC Winter School Materials
+# 2027 PyHC Winter School Materials
 
 Repo to house at least all notebooks from presentations.
 
